@@ -1,0 +1,8 @@
+{
+  "type": "smelting",
+  "ingredient": {
+    "tag": "forge:dusts/nickel"
+  },
+  "result": "zi_resources:ingot_nickel",
+  "cookingtime": 200
+}

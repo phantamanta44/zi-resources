@@ -1,0 +1,22 @@
+{
+  "values": [
+    "zi_resources:dust_copper",
+    "zi_resources:dust_tin",
+    "zi_resources:dust_aluminum",
+    "zi_resources:dust_silver",
+    "zi_resources:dust_lead",
+    "zi_resources:dust_nickel",
+    "zi_resources:dust_iridium",
+    "zi_resources:dust_bronze",
+    "zi_resources:dust_steel",
+    "zi_resources:dust_constantan",
+    "zi_resources:dust_electrum",
+    "zi_resources:dust_invar",
+    "zi_resources:dust_iron",
+    "zi_resources:dust_gold",
+    "zi_resources:charcoal_dust",
+    "zi_resources:coal_dust",
+    "zi_resources:obsidian_dust",
+    "zi_resources:sawdust"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "type": "crafting_shapeless",
+  "ingredients": [
+    {
+      "tag": "forge:storage_blocks/bronze"
+    }
+  ],
+  "result": {
+    "item": "zi_resources:ingot_bronze",
+    "count": 9
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "type": "smelting",
+  "ingredient": {
+    "tag": "forge:ores/silver"
+  },
+  "result": "zi_resources:ingot_silver",
+  "cookingtime": 200,
+  "experience": 0.7
+}

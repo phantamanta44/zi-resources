@@ -1,0 +1,12 @@
+{
+  "type": "crafting_shapeless",
+  "ingredients": [
+    {
+      "tag": "forge:ingots/constantan"
+    }
+  ],
+  "result": {
+    "item": "zi_resources:nugget_constantan",
+    "count": 9
+  }
+}

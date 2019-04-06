@@ -1,0 +1,8 @@
+{
+  "type": "smelting",
+  "ingredient": {
+    "tag": "forge:dusts/steel"
+  },
+  "result": "zi_resources:ingot_steel",
+  "cookingtime": 200
+}

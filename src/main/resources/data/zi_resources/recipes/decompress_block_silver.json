@@ -1,0 +1,12 @@
+{
+  "type": "crafting_shapeless",
+  "ingredients": [
+    {
+      "tag": "forge:storage_blocks/silver"
+    }
+  ],
+  "result": {
+    "item": "zi_resources:ingot_silver",
+    "count": 9
+  }
+}

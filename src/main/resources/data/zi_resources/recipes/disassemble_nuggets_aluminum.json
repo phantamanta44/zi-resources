@@ -1,0 +1,12 @@
+{
+  "type": "crafting_shapeless",
+  "ingredients": [
+    {
+      "tag": "forge:ingots/aluminum"
+    }
+  ],
+  "result": {
+    "item": "zi_resources:nugget_aluminum",
+    "count": 9
+  }
+}

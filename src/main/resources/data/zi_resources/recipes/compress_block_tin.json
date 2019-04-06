@@ -1,0 +1,16 @@
+{
+  "type": "crafting_shaped",
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "tag": "forge:ingots/tin"
+    }
+  },
+  "result": {
+    "item": "zi_resources:storage_block_tin"
+  }
+}

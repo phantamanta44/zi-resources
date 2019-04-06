@@ -1,0 +1,12 @@
+{
+  "type": "crafting_shapeless",
+  "ingredients": [
+    {
+      "tag": "forge:storage_blocks/electrum"
+    }
+  ],
+  "result": {
+    "item": "zi_resources:ingot_electrum",
+    "count": 9
+  }
+}

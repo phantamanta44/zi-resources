@@ -1,0 +1,16 @@
+{
+  "values": [
+    "zi_resources:ingot_copper",
+    "zi_resources:ingot_tin",
+    "zi_resources:ingot_aluminum",
+    "zi_resources:ingot_silver",
+    "zi_resources:ingot_lead",
+    "zi_resources:ingot_nickel",
+    "zi_resources:ingot_iridium",
+    "zi_resources:ingot_bronze",
+    "zi_resources:ingot_steel",
+    "zi_resources:ingot_constantan",
+    "zi_resources:ingot_electrum",
+    "zi_resources:ingot_invar"
+  ]
+}

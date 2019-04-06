@@ -1,0 +1,8 @@
+{
+  "type": "smelting",
+  "ingredient": {
+    "tag": "forge:dusts/iridium"
+  },
+  "result": "zi_resources:ingot_iridium",
+  "cookingtime": 200
+}

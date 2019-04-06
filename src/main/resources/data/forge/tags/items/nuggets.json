@@ -1,0 +1,16 @@
+{
+  "values": [
+    "zi_resources:nugget_copper",
+    "zi_resources:nugget_tin",
+    "zi_resources:nugget_aluminum",
+    "zi_resources:nugget_silver",
+    "zi_resources:nugget_lead",
+    "zi_resources:nugget_nickel",
+    "zi_resources:nugget_iridium",
+    "zi_resources:nugget_bronze",
+    "zi_resources:nugget_steel",
+    "zi_resources:nugget_constantan",
+    "zi_resources:nugget_electrum",
+    "zi_resources:nugget_invar"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "type": "crafting_shapeless",
+  "ingredients": [
+    {
+      "tag": "forge:storage_blocks/nickel"
+    }
+  ],
+  "result": {
+    "item": "zi_resources:ingot_nickel",
+    "count": 9
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "values": [
+    "zi_resources:ore_copper",
+    "zi_resources:ore_tin",
+    "zi_resources:ore_aluminum",
+    "zi_resources:ore_silver",
+    "zi_resources:ore_lead",
+    "zi_resources:ore_nickel",
+    "zi_resources:ore_iridium"
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "type": "smelting",
+  "ingredient": {
+    "tag": "forge:dusts/silver"
+  },
+  "result": "zi_resources:ingot_silver",
+  "cookingtime": 200
+}

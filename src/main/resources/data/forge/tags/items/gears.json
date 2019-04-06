@@ -1,0 +1,18 @@
+{
+  "values": [
+    "zi_resources:gear_copper",
+    "zi_resources:gear_tin",
+    "zi_resources:gear_aluminum",
+    "zi_resources:gear_silver",
+    "zi_resources:gear_lead",
+    "zi_resources:gear_nickel",
+    "zi_resources:gear_iridium",
+    "zi_resources:gear_bronze",
+    "zi_resources:gear_steel",
+    "zi_resources:gear_constantan",
+    "zi_resources:gear_electrum",
+    "zi_resources:gear_invar",
+    "zi_resources:gear_iron",
+    "zi_resources:gear_gold"
+  ]
+}

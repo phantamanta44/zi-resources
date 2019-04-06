@@ -1,0 +1,16 @@
+{
+  "type": "crafting_shaped",
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "tag": "forge:nuggets/iridium"
+    }
+  },
+  "result": {
+    "item": "zi_resources:ingot_iridium"
+  }
+}

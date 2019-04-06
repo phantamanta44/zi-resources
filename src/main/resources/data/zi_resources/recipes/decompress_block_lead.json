@@ -1,0 +1,12 @@
+{
+  "type": "crafting_shapeless",
+  "ingredients": [
+    {
+      "tag": "forge:storage_blocks/lead"
+    }
+  ],
+  "result": {
+    "item": "zi_resources:ingot_lead",
+    "count": 9
+  }
+}

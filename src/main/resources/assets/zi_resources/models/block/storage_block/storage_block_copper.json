@@ -1,0 +1,6 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "zi_resources:block/storage_block/storage_block_copper"
+  }
+}

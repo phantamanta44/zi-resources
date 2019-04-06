@@ -1,0 +1,9 @@
+{
+  "type": "smelting",
+  "ingredient": {
+    "tag": "forge:ores/lead"
+  },
+  "result": "zi_resources:ingot_lead",
+  "cookingtime": 200,
+  "experience": 0.7
+}

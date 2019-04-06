@@ -1,0 +1,8 @@
+{
+  "type": "smelting",
+  "ingredient": {
+    "tag": "forge:dusts/aluminum"
+  },
+  "result": "zi_resources:ingot_aluminum",
+  "cookingtime": 200
+}

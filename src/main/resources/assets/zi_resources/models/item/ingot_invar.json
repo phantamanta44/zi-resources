@@ -1,0 +1,6 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "zi_resources:item/ingot/ingot_invar"
+  }
+}

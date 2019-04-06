@@ -1,0 +1,17 @@
+modLoader="nonary"
+loaderVersion="[1.0.0,)"
+issueTrackerURL="https://github.com/phantamanta44/zi-resources/issues/"
+
+[[mods]]
+modId="zi_resources"
+version="${file.jarVersion}"
+displayName="Zero-Inspiration Resources"
+displayURL="https://github.com/phantamanta44/zi-resources/"
+authors="Phanta"
+description="Some metals and stuff."
+
+[[dependencies.zi_resources]]
+    modId="libnine"
+    mandatory=true
+    versionRange="[1.0.0,)"
+    side="BOTH"

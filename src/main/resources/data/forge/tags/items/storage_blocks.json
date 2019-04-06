@@ -1,0 +1,17 @@
+{
+  "values": [
+    "zi_resources:storage_block_copper",
+    "zi_resources:storage_block_tin",
+    "zi_resources:storage_block_aluminum",
+    "zi_resources:storage_block_silver",
+    "zi_resources:storage_block_lead",
+    "zi_resources:storage_block_nickel",
+    "zi_resources:storage_block_iridium",
+    "zi_resources:storage_block_bronze",
+    "zi_resources:storage_block_steel",
+    "zi_resources:storage_block_constantan",
+    "zi_resources:storage_block_electrum",
+    "zi_resources:storage_block_invar",
+    "zi_resources:charcoal_block"
+  ]
+}

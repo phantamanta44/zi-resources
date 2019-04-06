@@ -1,0 +1,8 @@
+{
+  "type": "smelting",
+  "ingredient": {
+    "tag": "forge:dusts/electrum"
+  },
+  "result": "zi_resources:ingot_electrum",
+  "cookingtime": 200
+}

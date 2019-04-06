@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "zi_resources:block/ore/ore_aluminum"
+    }
+  }
+}
